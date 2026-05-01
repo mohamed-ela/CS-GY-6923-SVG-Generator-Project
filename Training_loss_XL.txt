@@ -1,0 +1,65 @@
+= Training XL Model ===
+Parameters: 91,717,120
+Target steps for 100M tokens: 24,414
+No checkpoint found. Starting fresh from step 0.
+Step 0/24414 | Loss: 8.5557
+Step 500/24414 | Loss: 1.5577
+Step 1000/24414 | Loss: 1.3238
+Step 1500/24414 | Loss: 1.1193
+Step 2000/24414 | Loss: 1.0031
+💾 Checkpoint saved to Google Drive at step 2000!
+Step 2500/24414 | Loss: 0.7968
+Step 3000/24414 | Loss: 0.7498
+Step 3500/24414 | Loss: 0.7556
+Step 4000/24414 | Loss: 0.8272
+💾 Checkpoint saved to Google Drive at step 4000!
+Step 4500/24414 | Loss: 0.8436
+Step 5000/24414 | Loss: 0.7591
+Step 5500/24414 | Loss: 0.6363
+Step 6000/24414 | Loss: 0.9768
+💾 Checkpoint saved to Google Drive at step 6000!
+Step 6500/24414 | Loss: 0.7872
+Step 7000/24414 | Loss: 0.5156
+Step 7500/24414 | Loss: 0.8246
+Step 8000/24414 | Loss: 0.7500
+💾 Checkpoint saved to Google Drive at step 8000!
+Step 8500/24414 | Loss: 0.5519
+Step 9000/24414 | Loss: 0.5444
+Step 9500/24414 | Loss: 0.8582
+Step 10000/24414 | Loss: 0.4839
+💾 Checkpoint saved to Google Drive at step 10000!
+Step 10500/24414 | Loss: 0.6110
+Step 11000/24414 | Loss: 0.6069
+Step 11500/24414 | Loss: 0.5107
+Step 12000/24414 | Loss: 0.5394
+💾 Checkpoint saved to Google Drive at step 12000!
+Step 12500/24414 | Loss: 0.6823
+Step 13000/24414 | Loss: 0.5780
+Step 13500/24414 | Loss: 0.5551
+Step 14000/24414 | Loss: 0.5389
+💾 Checkpoint saved to Google Drive at step 14000!
+Step 14500/24414 | Loss: 0.5955
+Step 15000/24414 | Loss: 0.5337
+Step 15500/24414 | Loss: 0.6290
+Step 16000/24414 | Loss: 0.5671
+💾 Checkpoint saved to Google Drive at step 16000!
+Step 16500/24414 | Loss: 0.4796
+Step 17000/24414 | Loss: 0.5870
+Step 17500/24414 | Loss: 0.4773
+Step 18000/24414 | Loss: 0.5274
+💾 Checkpoint saved to Google Drive at step 18000!
+Step 18500/24414 | Loss: 0.5816
+Step 19000/24414 | Loss: 0.5887
+Step 19500/24414 | Loss: 0.5108
+Step 20000/24414 | Loss: 0.4368
+💾 Checkpoint saved to Google Drive at step 20000!
+Step 20500/24414 | Loss: 0.6309
+Step 21000/24414 | Loss: 0.4782
+Step 21500/24414 | Loss: 0.4397
+Step 22000/24414 | Loss: 0.5310
+💾 Checkpoint saved to Google Drive at step 22000!
+Step 22500/24414 | Loss: 0.4875
+Step 23000/24414 | Loss: 0.6377
+Step 23500/24414 | Loss: 0.4478
+Step 24000/24414 | Loss: 0.5804
+Step 24414/24414 | Loss: 0.5224 

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Tiny",
+        "params": 1975552,
+        "val_loss": 2.0149338245391846,
+        "wall_time_sec": 600.1154084205627,
+        "peak_gpu_mem_mb": 0,
+        "tokens_per_sec": 4054.2601737279992
+    },
+    {
+        "name": "Small",
+        "params": 4439680,
+        "val_loss": 1.9278054237365723,
+        "wall_time_sec": 1356.1819446086884,
+        "peak_gpu_mem_mb": 0,
+        "tokens_per_sec": 1794.0247690747888
+    },
+    {
+        "name": "Medium",
+        "params": 14183680,
+        "val_loss": 2.0441038608551025,
+        "wall_time_sec": 5577.146529197693,
+        "peak_gpu_mem_mb": 0,
+        "tokens_per_sec": 436.2488930965932
+    },
+    {
+        "name": "Large",
+        "params": 35970048,
+        "val_loss": 0.5564654469490051,
+        "wall_time_sec": 10195.529834747314,
+        "peak_gpu_mem_mb": 3021.04833984375,
+        "tokens_per_sec": 9808.194926681648
+    },
+    {
+        "name": "XL",
+        "params": 91717120,
+        "val_loss": 0.5224376320838928,
+        "wall_time_sec": 13050.485500574112,
+        "peak_gpu_mem_mb": 6647.22021484375,
+        "tokens_per_sec": 7662.53056222321
+    }
+]

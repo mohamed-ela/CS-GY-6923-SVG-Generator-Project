@@ -1,0 +1,329 @@
+=== Training Tiny Model (MuP) ===
+Parameters: 1,910,016
+Target steps for 100M tokens: 24,414
+Starting fresh from step 0.
+Step 0/24414 | Loss: 8.5338
+Step 500/24414 | Loss: 1.7950
+Step 1000/24414 | Loss: 1.4776
+Step 1500/24414 | Loss: 1.2230
+Step 2000/24414 | Loss: 1.0589
+💾 Checkpoint saved at step 2000!
+Step 2500/24414 | Loss: 0.9968
+Step 3000/24414 | Loss: 1.2653
+Step 3500/24414 | Loss: 1.0195
+Step 4000/24414 | Loss: 0.8547
+💾 Checkpoint saved at step 4000!
+Step 4500/24414 | Loss: 1.0632
+Step 5000/24414 | Loss: 0.8316
+Step 5500/24414 | Loss: 0.7744
+Step 6000/24414 | Loss: 0.9362
+💾 Checkpoint saved at step 6000!
+Step 6500/24414 | Loss: 0.8439
+Step 7000/24414 | Loss: 1.0304
+Step 7500/24414 | Loss: 0.7799
+Step 8000/24414 | Loss: 0.7930
+💾 Checkpoint saved at step 8000!
+Step 8500/24414 | Loss: 1.0736
+Step 9000/24414 | Loss: 0.7683
+Step 9500/24414 | Loss: 0.8572
+Step 10000/24414 | Loss: 0.9168
+💾 Checkpoint saved at step 10000!
+Step 10500/24414 | Loss: 0.9665
+Step 11000/24414 | Loss: 0.7776
+Step 11500/24414 | Loss: 0.7537
+Step 12000/24414 | Loss: 0.8191
+💾 Checkpoint saved at step 12000!
+Step 12500/24414 | Loss: 0.7588
+Step 13000/24414 | Loss: 0.7538
+Step 13500/24414 | Loss: 0.7721
+Step 14000/24414 | Loss: 0.7042
+💾 Checkpoint saved at step 14000!
+Step 14500/24414 | Loss: 0.7382
+Step 15000/24414 | Loss: 0.7178
+Step 15500/24414 | Loss: 0.7071
+Step 16000/24414 | Loss: 0.8110
+💾 Checkpoint saved at step 16000!
+Step 16500/24414 | Loss: 0.8411
+Step 17000/24414 | Loss: 0.6913
+Step 17500/24414 | Loss: 0.7200
+Step 18000/24414 | Loss: 0.6664
+💾 Checkpoint saved at step 18000!
+Step 18500/24414 | Loss: 0.7498
+Step 19000/24414 | Loss: 0.6470
+Step 19500/24414 | Loss: 0.8879
+Step 20000/24414 | Loss: 0.7041
+💾 Checkpoint saved at step 20000!
+Step 20500/24414 | Loss: 0.7764
+Step 21000/24414 | Loss: 0.7826
+Step 21500/24414 | Loss: 0.6602
+Step 22000/24414 | Loss: 0.7501
+💾 Checkpoint saved at step 22000!
+Step 22500/24414 | Loss: 0.6370
+Step 23000/24414 | Loss: 0.8367
+Step 23500/24414 | Loss: 0.6809
+Step 24000/24414 | Loss: 0.7445
+💾 Checkpoint saved at step 24000!
+Finished Tiny! Val Loss: 0.7314 | Mem: 1261MB
+=== Training Small Model (MuP) ===
+Parameters: 6,966,784
+Target steps for 100M tokens: 24,414
+Starting fresh from step 0.
+Step 0/24414 | Loss: 8.3934
+Step 500/24414 | Loss: 1.8727
+Step 1000/24414 | Loss: 1.2081
+Step 1500/24414 | Loss: 1.0104
+Step 2000/24414 | Loss: 1.3348
+💾 Checkpoint saved at step 2000!
+Step 2500/24414 | Loss: 1.0209
+Step 3000/24414 | Loss: 0.8851
+Step 3500/24414 | Loss: 0.8017
+Step 4000/24414 | Loss: 0.9092
+💾 Checkpoint saved at step 4000!
+Step 4500/24414 | Loss: 0.7532
+Step 5000/24414 | Loss: 0.8794
+Step 5500/24414 | Loss: 0.8023
+Step 6000/24414 | Loss: 0.7127
+💾 Checkpoint saved at step 6000!
+Step 6500/24414 | Loss: 0.9087
+Step 7000/24414 | Loss: 0.6080
+Step 7500/24414 | Loss: 0.7126
+Step 8000/24414 | Loss: 0.8069
+💾 Checkpoint saved at step 8000!
+Step 8500/24414 | Loss: 0.6815
+Step 9000/24414 | Loss: 0.7560
+Step 9500/24414 | Loss: 0.6518
+Step 10000/24414 | Loss: 0.7857
+💾 Checkpoint saved at step 10000!
+Step 10500/24414 | Loss: 0.7652
+Step 11000/24414 | Loss: 0.7262
+Step 11500/24414 | Loss: 0.7735
+Step 12000/24414 | Loss: 0.6097
+💾 Checkpoint saved at step 12000!
+Step 12500/24414 | Loss: 0.6854
+Step 13000/24414 | Loss: 0.6850
+Step 13500/24414 | Loss: 0.6692
+Step 14000/24414 | Loss: 0.7234
+💾 Checkpoint saved at step 14000!
+Step 14500/24414 | Loss: 0.6878
+Step 15000/24414 | Loss: 0.6896
+Step 15500/24414 | Loss: 0.6593
+Step 16000/24414 | Loss: 0.5350
+💾 Checkpoint saved at step 16000!
+Step 16500/24414 | Loss: 0.6173
+Step 17000/24414 | Loss: 0.5295
+Step 17500/24414 | Loss: 0.7076
+Step 18000/24414 | Loss: 0.5896
+💾 Checkpoint saved at step 18000!
+Step 18500/24414 | Loss: 0.5271
+Step 19000/24414 | Loss: 0.6487
+Step 19500/24414 | Loss: 0.5806
+Step 20000/24414 | Loss: 0.6138
+💾 Checkpoint saved at step 20000!
+Step 20500/24414 | Loss: 0.6302
+Step 21000/24414 | Loss: 0.6799
+Step 21500/24414 | Loss: 0.6322
+Step 22000/24414 | Loss: 0.4035
+💾 Checkpoint saved at step 22000!
+Step 22500/24414 | Loss: 0.6883
+Step 23000/24414 | Loss: 0.6511
+Step 23500/24414 | Loss: 0.6978
+Step 24000/24414 | Loss: 0.7142
+💾 Checkpoint saved at step 24000!
+Finished Small! Val Loss: 0.6047 | Mem: 1218MB
+🗑️ Cleaned up temporary checkpoint file.
+=== Training Medium Model (MuP) ===
+Parameters: 17,533,696
+Target steps for 100M tokens: 24,414
+Starting fresh from step 0.
+Step 0/24414 | Loss: 8.4199
+Step 500/24414 | Loss: 1.6085
+Step 1000/24414 | Loss: 1.0529
+Step 1500/24414 | Loss: 0.9557
+Step 2000/24414 | Loss: 0.8966
+💾 Checkpoint saved at step 2000!
+Step 2500/24414 | Loss: 0.9222
+Step 3000/24414 | Loss: 0.8416
+Step 3500/24414 | Loss: 0.7663
+Step 4000/24414 | Loss: 0.7767
+💾 Checkpoint saved at step 4000!
+Step 4500/24414 | Loss: 0.6833
+Step 5000/24414 | Loss: 0.7439
+Step 5500/24414 | Loss: 0.7031
+Step 6000/24414 | Loss: 0.7908
+💾 Checkpoint saved at step 6000!
+Step 6500/24414 | Loss: 0.8785
+Step 7000/24414 | Loss: 0.7446
+Step 7500/24414 | Loss: 0.9065
+Step 8000/24414 | Loss: 0.7660
+💾 Checkpoint saved at step 8000!
+Step 8500/24414 | Loss: 0.9573
+Step 9000/24414 | Loss: 0.7187
+Step 9500/24414 | Loss: 0.7299
+Step 10000/24414 | Loss: 0.5940
+💾 Checkpoint saved at step 10000!
+Step 10500/24414 | Loss: 0.8177
+Step 11000/24414 | Loss: 0.6133
+Step 11500/24414 | Loss: 0.7821
+Step 12000/24414 | Loss: 0.8159
+💾 Checkpoint saved at step 12000!
+Step 12500/24414 | Loss: 0.7929
+Step 13000/24414 | Loss: 0.7480
+Step 13500/24414 | Loss: 0.6990
+Step 14000/24414 | Loss: 0.5510
+💾 Checkpoint saved at step 14000!
+Step 14500/24414 | Loss: 0.5439
+Step 15000/24414 | Loss: 0.6947
+Step 15500/24414 | Loss: 0.4993
+Step 16000/24414 | Loss: 0.4621
+💾 Checkpoint saved at step 16000!
+Step 16500/24414 | Loss: 0.5138
+Step 17000/24414 | Loss: 0.4346
+Step 17500/24414 | Loss: 0.5021
+Step 18000/24414 | Loss: 0.6710
+💾 Checkpoint saved at step 18000!
+Step 18500/24414 | Loss: 0.6563
+Step 19000/24414 | Loss: 0.6052
+Step 19500/24414 | Loss: 0.6345
+Step 20000/24414 | Loss: 0.6591
+💾 Checkpoint saved at step 20000!
+Step 22500/24414 | Loss: 0.4588
+Step 23000/24414 | Loss: 0.7037
+Step 23500/24414 | Loss: 0.5565
+Step 24000/24414 | Loss: 0.5801
+💾 Checkpoint saved at step 24000!
+Finished Medium! Val Loss: 0.5615 | Mem: 2080MB
+🗑️ Cleaned up temporary checkpoint file.
+=== Training Large Model (MuP) ===
+Parameters: 35,970,048
+Target steps for 100M tokens: 24,414
+Starting fresh from step 0.
+Step 0/24414 | Loss: 8.3703
+Step 500/24414 | Loss: 1.7894
+Step 1000/24414 | Loss: 1.2599
+Step 1500/24414 | Loss: 1.0388
+Step 2000/24414 | Loss: 0.9309
+💾 Checkpoint saved at step 2000!
+Step 2500/24414 | Loss: 0.7615
+Step 3000/24414 | Loss: 0.8177
+Step 3500/24414 | Loss: 0.9944
+Step 4000/24414 | Loss: 0.8742
+💾 Checkpoint saved at step 4000!
+Step 4500/24414 | Loss: 1.2023
+Step 5000/24414 | Loss: 0.7779
+Step 5500/24414 | Loss: 0.7211
+Step 6000/24414 | Loss: 0.7061
+💾 Checkpoint saved at step 6000!
+Step 6500/24414 | Loss: 0.6845
+Step 7000/24414 | Loss: 0.7645
+Step 7500/24414 | Loss: 0.6077
+Step 8000/24414 | Loss: 0.6544
+💾 Checkpoint saved at step 8000!
+Step 8500/24414 | Loss: 0.6454
+Step 9000/24414 | Loss: 0.6157
+Step 9500/24414 | Loss: 0.7190
+Step 10000/24414 | Loss: 0.6851
+💾 Checkpoint saved at step 10000!
+Step 10500/24414 | Loss: 0.6669
+Step 11000/24414 | Loss: 0.6372
+Step 11500/24414 | Loss: 0.5462
+Step 12000/24414 | Loss: 0.4556
+💾 Checkpoint saved at step 12000!
+Step 12500/24414 | Loss: 0.6805
+Step 13000/24414 | Loss: 0.6072
+Step 13500/24414 | Loss: 0.6294
+Step 14000/24414 | Loss: 0.5243
+💾 Checkpoint saved at step 14000!
+Step 14500/24414 | Loss: 0.5814
+Step 15000/24414 | Loss: 0.4489
+Step 15500/24414 | Loss: 0.6925
+Step 16000/24414 | Loss: 0.6537
+💾 Checkpoint saved at step 16000!
+Step 16500/24414 | Loss: 0.6836
+Step 17000/24414 | Loss: 0.5777
+Step 17500/24414 | Loss: 0.6284
+Step 18000/24414 | Loss: 0.5574
+💾 Checkpoint saved at step 18000!
+Step 18500/24414 | Loss: 0.5342
+Step 19000/24414 | Loss: 0.4611
+Step 19500/24414 | Loss: 0.6394
+Step 20000/24414 | Loss: 0.5986
+💾 Checkpoint saved at step 20000!
+Step 20500/24414 | Loss: 0.5412
+Step 21000/24414 | Loss: 0.4678
+Step 21500/24414 | Loss: 0.5558
+Step 22000/24414 | Loss: 0.5230
+💾 Checkpoint saved at step 22000!
+Step 22500/24414 | Loss: 0.5337
+Step 23000/24414 | Loss: 0.5291
+Step 23500/24414 | Loss: 0.5349
+Step 24000/24414 | Loss: 0.5704
+💾 Checkpoint saved at step 24000!
+Finished Large! Val Loss: 0.5486 | Mem: 3098MB
+
+
+=== Training XL Model (MuP) ===
+Parameters: 91,717,120
+Target steps for 100M tokens: 24,414
+Starting fresh from step 0.
+Step 0/24414 | Loss: 8.3483
+Step 500/24414 | Loss: 1.4362
+Step 1000/24414 | Loss: 1.1278
+Step 1500/24414 | Loss: 1.1041
+Step 2000/24414 | Loss: 0.8970
+💾 Checkpoint saved at step 2000!
+Step 2500/24414 | Loss: 0.8105
+Step 3000/24414 | Loss: 0.7781
+Step 3500/24414 | Loss: 0.8617
+Step 4000/24414 | Loss: 0.6077
+💾 Checkpoint saved at step 4000!
+Step 4500/24414 | Loss: 0.7033
+Step 5000/24414 | Loss: 0.7515
+Step 5500/24414 | Loss: 0.7091
+Step 6000/24414 | Loss: 0.5731
+💾 Checkpoint saved at step 6000!
+Step 6500/24414 | Loss: 0.6128
+Step 7000/24414 | Loss: 0.6015
+Step 7500/24414 | Loss: 0.7096
+Step 8000/24414 | Loss: 0.6128
+💾 Checkpoint saved at step 8000!
+Step 8500/24414 | Loss: 0.6181
+Step 9000/24414 | Loss: 0.7553
+Step 9500/24414 | Loss: 0.5188
+Step 10000/24414 | Loss: 0.7038
+💾 Checkpoint saved at step 10000!
+Step 10500/24414 | Loss: 0.6779
+Step 11000/24414 | Loss: 0.5382
+Step 11500/24414 | Loss: 0.5213
+Step 12000/24414 | Loss: 0.4703
+💾 Checkpoint saved at step 12000!
+Step 12500/24414 | Loss: 0.6362
+Step 13000/24414 | Loss: 0.5599
+Step 13500/24414 | Loss: 0.5007
+Step 14000/24414 | Loss: 0.5993
+💾 Checkpoint saved at step 14000!
+Step 14500/24414 | Loss: 0.6175
+Step 15000/24414 | Loss: 0.4950
+Step 15500/24414 | Loss: 0.5526
+Step 16000/24414 | Loss: 0.5836
+💾 Checkpoint saved at step 16000!
+Step 16500/24414 | Loss: 0.5650
+Step 17000/24414 | Loss: 0.5056
+Step 17500/24414 | Loss: 0.5707
+Step 18000/24414 | Loss: 0.7559
+💾 Checkpoint saved at step 18000!
+Step 18500/24414 | Loss: 0.5623
+Step 19000/24414 | Loss: 0.5416
+Step 19500/24414 | Loss: 0.5333
+Step 20000/24414 | Loss: 0.5262
+💾 Checkpoint saved at step 20000!
+Step 20500/24414 | Loss: 0.6045
+Step 21000/24414 | Loss: 0.5651
+Step 21500/24414 | Loss: 0.6409
+Step 22000/24414 | Loss: 0.5105
+💾 Checkpoint saved at step 22000!
+Step 22500/24414 | Loss: 0.5254
+Step 22500/24414 | Loss: 0.5193
+Step 23000/24414 | Loss: 0.4700
+Step 23500/24414 | Loss: 0.5674
+Step 24000/24414 | Loss: 0.5015
+Step 24414/24414 | Loss: 0.5479

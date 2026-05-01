@@ -1,0 +1,52 @@
+Loading train data...
+✅ Loaded 2,000,000 tokens for train split.
+Loading val data...
+✅ Loaded 2,000,000 tokens for val split.
+
+🚀 Starting MuP Learning Rate Sweep on Tiny Model
+
+--- Testing Learning Rate: 0.0001 ---
+Step 0/1000 | Training Loss: 10.9793
+Step 250/1000 | Training Loss: 5.5535
+Step 500/1000 | Training Loss: 3.1080
+Step 750/1000 | Training Loss: 2.6619
+⭐ Final Val Loss for LR 0.0001: 2.2545
+
+--- Testing Learning Rate: 0.0003 ---
+Step 0/1000 | Training Loss: 10.9731
+Step 250/1000 | Training Loss: 2.5787
+Step 500/1000 | Training Loss: 2.0741
+Step 750/1000 | Training Loss: 1.9945
+⭐ Final Val Loss for LR 0.0003: 1.9494
+
+--- Testing Learning Rate: 0.001 ---
+Step 0/1000 | Training Loss: 10.9174
+Step 250/1000 | Training Loss: 2.3611
+Step 500/1000 | Training Loss: 1.9293
+Step 750/1000 | Training Loss: 1.6599
+⭐ Final Val Loss for LR 0.001: 1.6966
+
+--- Testing Learning Rate: 0.003 ---
+Step 0/1000 | Training Loss: 11.0273
+Step 250/1000 | Training Loss: 2.2497
+Step 500/1000 | Training Loss: 1.9365
+Step 750/1000 | Training Loss: 1.6255
+⭐ Final Val Loss for LR 0.003: 1.4604
+
+--- Testing Learning Rate: 0.01 ---
+Step 0/1000 | Training Loss: 10.9259
+Step 250/1000 | Training Loss: 2.0643
+Step 500/1000 | Training Loss: 1.9726
+Step 750/1000 | Training Loss: nan
+⭐ Final Val Loss for LR 0.01: nan
+
+--- Testing Learning Rate: 0.03 ---
+Step 0/1000 | Training Loss: 10.9860
+Step 250/1000 | Training Loss: 3.1956
+Step 500/1000 | Training Loss: nan
+Step 750/1000 | Training Loss: nan
+⭐ Final Val Loss for LR 0.03: nan
+
+✅ Sweep Complete! Results saved to mup_sweep_results.json
+🏆 The optimal MuP Learning Rate is: 0.003 (Val Loss: 1.4604)
+You will use this learning rate for all your MuP models in the next step!
