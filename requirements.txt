@@ -1,0 +1,5 @@
+torch>=2.0.0
+mup>=1.0.0
+cairosvg>=2.7.1
+lxml>=4.9.0
+tokenizers>=0.13.0
