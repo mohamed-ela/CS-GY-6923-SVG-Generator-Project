@@ -8,7 +8,7 @@ Ubuntu/Linux: sudo apt-get install libcairo2-devMacOS: brew install cairoWindows
 🚀 Usage Guide / Pipeline1. Data Preparation
 Run the data preparation script to clean the SVGs and generate svg_bpe_tokenizer.json and the split files in data_splits/.Bashpython prepare_svg_data.py
 
-2. Training ModelsTo reproduce the scaling experiments, run the training scripts. You can train the Standard SP models or the \(\mu \)P models:Bashpython train_scaling.py
+2. Training ModelsTo reproduce the scaling experiments, run the training scripts. You can train the Standard SP models or the muP models:Bashpython train_scaling.py
 python mup_train_scaling.py
 
 (Note: Training the Large and XL models requires a GPU with sufficient VRAM, such as an NVIDIA T4 or A100).
@@ -21,9 +21,9 @@ python predict_scaling.py
 To generate new SVGs from the trained XL model checkpoint, run the generation script. This will output cleaned .svg files and rendered .png files to the output directories.
 Bashpython Part5_generating_samples.py
 
-📊 Key FindingsScaling Predictability: \(\mu \)P successfully generalized optimal learning rates across 5 model scales, allowing for highly accurate power-law loss extrapolation compared to Standard Parameterization.
-Model Performance: The $\mu$P XL model achieved a highly confident validation perplexity of 1.9127.
+📊 Key FindingsScaling Predictability: muP successfully generalized optimal learning rates across 5 model scales, allowing for highly accurate power-law loss extrapolation compared to Standard Parameterization.
+Model Performance: The muP XL model achieved a highly confident validation perplexity of 1.9127.
 
 Generative Capability: Despite the strict XML syntax requirements of SVGs, the autoregressive model successfully learned continuous geometric paths and spatial reasoning, accurately completing prefix-conditional prompts like connecting paths and lines.📄 ReferencesKaplan, J., et al. (2020). 
-Scaling laws for neural language models. Yang, G., et al. (2022). Tensor Programs V: Tuning large neural networks via zero-shot hyperparameter transfer (\(\mu \).""")
+Scaling laws for neural language models. Yang, G., et al. (2022). Tensor Programs V: Tuning large neural networks via zero-shot hyperparameter transfer (muP.""")
 
